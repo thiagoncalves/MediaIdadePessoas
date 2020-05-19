@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\bin\Debug\MediaIdadePessoas.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\bin\Debug\MediaIdadePessoas.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\bin\Debug\MediaIdadePessoas.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\obj\Debug\MediaIdadePessoas.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\obj\Debug\MediaIdadePessoas.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaIdadePessoas\obj\Debug\MediaIdadePessoas.pdb
