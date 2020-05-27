@@ -31,6 +31,15 @@ namespace MediaIdadePessoas
 
             double media = listaidade.Average();
 
+            Console.Clear();
+
+            IdadeTurma(media);
+
+            Console.ReadLine();
+        }
+
+        public static void IdadeTurma (double media)
+        {
             if (media >= 0 && media <= 25)
                 Console.WriteLine("A turma inserida é Jovem");
 
@@ -39,8 +48,6 @@ namespace MediaIdadePessoas
 
             if (media > 60)
                 Console.WriteLine("A turma inserida é Idosa");
-
-            Console.ReadLine();
         }
     }
 }
